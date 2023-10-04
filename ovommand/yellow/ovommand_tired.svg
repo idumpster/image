@@ -1,12 +1,9 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="600.000000pt" height="600.000000pt" viewBox="0 0 600.000000 600.000000"
- preserveAspectRatio="xMidYMid meet">
+     width="600px" height="600px"
+     viewBox="0 0 600 600" preserveAspectRatio="xMidYMid meet">
 
-<g transform="translate(0.000000,600.000000) scale(0.100000,-0.100000)"
-fill="#5865F2" stroke="none">
+<g transform="translate(0.000000,600.000000) scale(0.100000,-0.100000)" fill="#FFFF00" stroke="none">
 <path d="M1459 4382 c-88 -24 -186 -73 -241 -122 -55 -48 -144 -164 -185 -240
 -66 -123 -68 -132 -238 -935 -58 -276 -130 -616 -171 -805 -61 -282 -65 -344
 -31 -471 29 -107 65 -169 128 -218 82 -66 144 -84 284 -84 140 -1 219 17 310
@@ -22,6 +19,6 @@ m3121 -1442 l0 -1070 -1295 0 -1296 0 3 823 3 822 28 120 c36 152 47 223 47
 40 187 60 280 20 94 43 192 51 220 16 55 55 117 88 139 50 32 120 29 153 -9z"/>
 <path d="M2560 2895 l0 -35 205 0 205 0 0 35 0 35 -205 0 -205 0 0 -35z"/>
 <path d="M3730 2880 l0 -40 230 0 230 0 0 40 0 40 -230 0 -230 0 0 -40z"/>
-<path d="M3062 2488 l3 -53 338 -3 337 -2 0 55 0 55 -341 0 -340 0 3 -52z"/>
+    <path d="M3062 2488 l3 -53 338 -3 337 -2 0 55 0 55 -341 0 -340 0 3 -52z"/>
 </g>
 </svg>
